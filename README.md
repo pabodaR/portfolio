@@ -11,9 +11,9 @@ This project aims to predict customer churn for ABC Multistate Bank using machin
 
 For more details, please visit the [project repository](https://github.com/pabodaR/customer-churn-prediction/tree/main).
 
-## [Project 2 - Crop Yield Prediction Model](https://github.com/pabodaR/customer-churn-prediction/tree/main)
+## [Project 2 - Crop Yield Prediction Model](https://github.com/pabodaR/crop-yield-prediction)
 
-This project aims to predict crop yield using machine learning techniques. The dataset includes attributes such as Area, Crop name, Year, hg/ha_yield,	average rain fall in mm per year,	pesticides in tonnes, average temperature.
+This project aims to predict crop yield in hectograms per hectare (hg/ha) using machine learning techniques. The dataset includes attributes such as Area, Crop name, Year, hg/ha_yield,	average rain fall in mm per year,	pesticides in tonnes, average temperature.
 
 ### Key Features:
 - **Data Preprocessing:** Handling missing and duplicate values, encoding categorical variables, and feature engineering.
@@ -21,4 +21,4 @@ This project aims to predict crop yield using machine learning techniques. The d
 - **Evaluation:** Models were evaluated based on accuracy, R^2 value. Hyperparameter tuning and cross validation was performed to determine the most suitable model for the crop yield prediction task.
 - **Results:** Random forest model is recommended due to lower RMSE since the R^2 values of the models are similar.
 
-For more details, please visit the [project repository](https://github.com/pabodaR/customer-churn-prediction/tree/main).
+For more details, please visit the [project repository](https://github.com/pabodaR/crop-yield-prediction).
