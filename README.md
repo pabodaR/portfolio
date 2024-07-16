@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 ## [Project 1 - Customer Churn Prediction Model](https://github.com/pabodaR/customer-churn-prediction/tree/main)
 
 This project aims to predict customer churn for ABC Multistate Bank using machine learning techniques. The dataset includes various customer attributes such as credit score, age, balance, and whether they have churned (exited).
