@@ -1,7 +1,8 @@
 # portfolio
-## [Project 1 - Customer Churn Prediction Model](https://github.com/pabodaR/customer-churn-prediction/tree/main)
 
-This project aims to predict customer churn for ABC Multistate Bank using machine learning techniques. The dataset includes various customer attributes such as credit score, age, balance, and whether they have churned (exited).
+## [Project 1 - Customer Churn Prediction](https://github.com/pabodaR/customer-churn-prediction/tree/main)
+
+This project aims to predict customer churn for ABC Multistate Bank using supervised machine learning techniques. The dataset includes various customer attributes such as credit score, age, balance, and whether they have churned (exited).
 
 ### Key Features:
 - **Data Preprocessing:** Handling missing and duplicate values, encoding categorical variables, normalization, and feature engineering.
@@ -11,80 +12,51 @@ This project aims to predict customer churn for ABC Multistate Bank using machin
 
 For more details, please visit the [project repository](https://github.com/pabodaR/customer-churn-prediction/tree/main).
 
-## [Project 2 - Crop Yield Prediction Model](https://github.com/pabodaR/crop-yield-prediction)
+---
 
-This project aims to predict crop yield in hectograms per hectare (hg/ha) using machine learning techniques. The dataset includes attributes such as Area, Crop name, Year, hg/ha_yield,	average rain fall in mm per year,	pesticides in tonnes, average temperature.
+## [Project 2 - Crop Yield Prediction](https://github.com/pabodaR/crop-yield-prediction)
+
+This project aims to predict crop yield in hectograms per hectare (hg/ha) using supervised machine learning techniques. The dataset includes attributes such as Area, Crop name, Year, hg/ha_yield, average rainfall in mm per year, pesticides in tonnes, average temperature.
 
 ### Key Features:
 - **Data Preprocessing:** Handling missing and duplicate values, encoding categorical variables, and feature engineering.
-- **Modeling:** Random Forest, and XGBoost were compared to find the best-performing model.
-- **Evaluation:** Models were evaluated based on accuracy, R^2 value. Hyperparameter tuning and cross validation was performed to determine the most suitable model for the crop yield prediction task.
-- **Results:** Random forest model is recommended due to lower RMSE since the R^2 values of the models are similar.
+- **Modeling:** Random Forest and XGBoost were compared to find the best-performing model.
+- **Evaluation:** Models were evaluated based on accuracy and R^2 value. Hyperparameter tuning and cross-validation were performed to determine the most suitable model.
+- **Results:** Random forest model is recommended due to lower RMSE, indicating robust performance in predicting crop yield.
 
 For more details, please visit the [project repository](https://github.com/pabodaR/crop-yield-prediction).
+
+---
 
 ## [Project 3 - Customer Segmentation](https://github.com/pabodaR/customer-segmentation/tree/main)
 
 This project aims to segment customers based on annual income and spending score using K-Means clustering.
 
 ### Key Features:
-- **Data Preprocessing:** Handling missing values, duplicate values
-- **Exploratory Data Analysis:** Data visualization using histograms, box plots, and scatter plots to 
-                              identify patterns
+- **Data Preprocessing:** Handling missing values and duplicate values.
+- **Exploratory Data Analysis:** Data visualization using histograms, box plots, and scatter plots to identify patterns.
 - **Clustering Algorithm:** K-Means clustering is applied to group customers.
-- **Results:** Customers were segmented in to 5 groups based on the annual income and th spending score.
-1. Low income and low spending score
-2. High income and low spending score
-3. Medium income and medium spending score
-4. Low income and high spending score
-5. High income and high spending score
+- **Results:** Customers were segmented into 5 groups based on annual income and spending score:
+  1. Low income and low spending score
+  2. High income and low spending score
+  3. Medium income and medium spending score
+  4. Low income and high spending score
+  5. High income and high spending score
 
 For more details, please visit the [project repository](https://github.com/pabodaR/customer-segmentation/tree/main).
 
+---
+
 ## [Project 4 - Exploratory Data Analysis with Netflix Dataset](https://github.com/pabodaR/exploratory-data-analysis-netflix)
 
-This project involves conducting an exploratory data analysis (EDA) on a Netflix dataset to gain insights into the content available on the platform. The analysis includes understanding the dataset, distribution of content types, top content-producing countries, prolific directors and actors, genres, and evolution of content length.
+This project involves conducting an exploratory data analysis (EDA) on a Netflix dataset to gain insights into the content available on the platform.
 
 ### Key Features:
-- **Dataset Overview:**
-  - **Objective:** Get a general understanding of the dataset.
-  - **Analysis:**
-    - Inspected the dataset information to understand the structure and types of data.
-    - Handled missing values and duplicates to ensure data quality and integrity.
-
-- **Content Type Distribution:**
-  - **Objective:** Analyze the distribution of different types of content (movies vs. TV shows).
-  - **Analysis:**
-    - Counted the number of movies and TV shows.
-    - Analyzed the distribution of content types over the years to observe trends.
-
-- **Top Countries by Content Production:**
-  - **Objective:** Identify which countries produce the most content.
-  - **Analysis:**
-    - Identified the top 10 countries by the number of titles produced.
-    - Visualized the data to highlight the leading content-producing countries.
-
-- **Director and Cast Analysis:**
-  - **Objective:** Understand the most prolific directors and frequent collaborators.
-  - **Analysis:**
-    - Identified the top directors by the number of titles directed.
-    - Analyzed the top actors with the most appearances in Netflix titles.
-
-- **Genre of Content:**
-  - **Objective:** Analyze genres of content.
-  - **Analysis:**
-    - Counted the amount of content by genre.
-    - Visualized the popularity and diversity of genres on Netflix.
-
-- **Content Length Evolution:**
-  - **Objective:** Investigate how the average length of movies has changed over time.
-  - **Analysis:**
-    - Calculated the average movie duration by release year.
-    - Visualized the evolution of movie lengths to identify any notable trends.
+- **Dataset Overview:** Understanding the structure and types of data.
+- **Analysis:** Includes distribution of content types, top content-producing countries, prolific directors and actors, genres, and evolution of content length.
 
 ### Results:
 - Detailed visualizations and insights for each analysis objective were created.
 - Trends and patterns in content types, production by countries, popular directors and actors, genre distribution, and movie lengths were identified and presented.
 
 For more details, please visit the [project repository](https://github.com/pabodaR/exploratory-data-analysis-netflix).
-
