@@ -32,12 +32,12 @@ This project aims to segment customers based on annual income and spending score
 - **Exploratory Data Analysis:** Data visualization using histograms, box plots, and scatter plots to 
                               identify patterns
 - **Clustering Algorithm:** K-Means clustering is applied to group customers.
-- **Results:** Customers were segmented in to 5 groups.
-1. **Light Blue** - Low income and low spending score
-2. **Dark Blue** - High income and low spending score
-3. **Purple** - Medium income and medium spending score
-4. **Green** - Low income and high spending score
-5. **Yellow** - High income and high spending score
+- **Results:** Customers were segmented in to 5 groups based on the annual income and th spending score.
+1. Low income and low spending score
+2. High income and low spending score
+3. Medium income and medium spending score
+4. Low income and high spending score
+5. High income and high spending score
 
 For more details, please visit the [project repository](https://github.com/pabodaR/customer-segmentation/tree/main).
 
