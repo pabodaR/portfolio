@@ -23,7 +23,25 @@ This project aims to predict crop yield in hectograms per hectare (hg/ha) using 
 
 For more details, please visit the [project repository](https://github.com/pabodaR/crop-yield-prediction).
 
-## [Project 3 - Exploratory Data Analysis with Netflix Dataset](https://github.com/pabodaR/exploratory-data-analysis-netflix)
+## [Project 3 - Customer Segmentation](https://github.com/pabodaR/customer-segmentation/tree/main)
+
+This project aims to segment customers based on annual income and spending score using K-Means clustering.
+
+### Key Features:
+- **Data Preprocessing:** Handling missing values, duplicate values
+- **Exploratory Data Analysis:** Data visualization using histograms, box plots, and scatter plots to 
+                              identify patterns
+- **Clustering Algorithm:** K-Means clustering is applied to group customers.
+- **Results:** Customers were segmented in to 5 groups.
+1. **Light Blue** - Low income and low spending score
+2. **Dark Blue** - High income and low spending score
+3. **Purple** - Medium income and medium spending score
+4. **Green** - Low income and high spending score
+5. **Yellow** - High income and high spending score
+
+For more details, please visit the [project repository](https://github.com/pabodaR/customer-segmentation/tree/main).
+
+## [Project 4 - Exploratory Data Analysis with Netflix Dataset](https://github.com/pabodaR/exploratory-data-analysis-netflix)
 
 This project involves conducting an exploratory data analysis (EDA) on a Netflix dataset to gain insights into the content available on the platform. The analysis includes understanding the dataset, distribution of content types, top content-producing countries, prolific directors and actors, genres, and evolution of content length.
 
