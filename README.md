@@ -1,4 +1,4 @@
-# Portfolio
+# portfolio
 
 ## [Project 1 - Customer Churn Prediction](https://github.com/pabodaR/customer-churn-prediction/tree/main)
 
