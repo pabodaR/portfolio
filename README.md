@@ -14,7 +14,22 @@ For more details, please visit the [project repository](https://github.com/pabod
 
 ---
 
-## [Project 2 - Sentiment Analysis](https://github.com/pabodaR/sentiment-analysis)
+## [Project 2 - Sales Analytics Dashboard](https://github.com/pabodaR/sales-analytics-dashboard)
+
+This project aims to predict customer churn for ABC Multistate Bank using supervised machine learning techniques. The dataset includes various customer attributes such as credit score, age, balance, and whether they have churned (exited).
+
+### Key Features:
+- **Data Preparation:** Imported and cleaned sales data using Power Query to ensure data accuracy and consistency.
+- **Data Transformation:** Applied transformations for item categorization, store type classification, and sales aggregation.
+- **Data Modeling:** Built data models to analyze relationships between store types, item categories, and sales performance.
+- **Visualization Building:** Created interactive charts and graphs to display sales trends, outlet establishment year, item breakdowns, and location-based sales distribution.
+- **Dashboard Design:** Developed an intuitive layout with slicers for filtering by store type, item type, and outlet size to enable dynamic user interaction. 
+
+For more details, please visit the [project repository](https://github.com/pabodaR/sales-analytics-dashboard).
+
+---
+
+## [Project 3 - Sentiment Analysis](https://github.com/pabodaR/sentiment-analysis)
 
 This project aims to classify customer reviews of Alexa products as positive or negative using supervised machine learning techniques. The dataset includes attributes such as feedback, variation of the product, review, rating and date.
 
@@ -28,7 +43,7 @@ For more details, please visit the [project repository](https://github.com/pabod
 
 ---
 
-## [Project 3 - Crop Yield Prediction](https://github.com/pabodaR/crop-yield-prediction)
+## [Project 4 - Crop Yield Prediction](https://github.com/pabodaR/crop-yield-prediction)
 
 This project aims to predict crop yield in hectograms per hectare (hg/ha) using supervised machine learning techniques. The dataset includes attributes such as Area, Crop name, Year, hg/ha_yield, average rainfall in mm per year, pesticides in tonnes, average temperature.
 
@@ -42,7 +57,7 @@ For more details, please visit the [project repository](https://github.com/pabod
 
 ---
 
-## [Project 4 - Customer Segmentation](https://github.com/pabodaR/customer-segmentation/tree/main)
+## [Project 5 - Customer Segmentation](https://github.com/pabodaR/customer-segmentation/tree/main)
 
 This project aims to segment customers based on annual income and spending score using K-Means clustering.
 
@@ -61,7 +76,7 @@ For more details, please visit the [project repository](https://github.com/pabod
 
 ---
 
-## [Project 5 - Exploratory Data Analysis with Netflix Dataset](https://github.com/pabodaR/exploratory-data-analysis-netflix)
+## [Project 6 - Exploratory Data Analysis with Netflix Dataset](https://github.com/pabodaR/exploratory-data-analysis-netflix)
 
 This project involves conducting an exploratory data analysis (EDA) on a Netflix dataset to gain insights into the content available on the platform.
 
